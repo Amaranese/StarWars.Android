@@ -1,9 +1,9 @@
-package com.yalantis.starwarsdemo.view;
+package com.amaranese.starwarsdemo.view;
 
 import android.os.Bundle;
 
-import com.yalantis.starwarsdemo.R;
-import com.yalantis.starwarsdemo.model.User;
+import com.amaranese.starwarsdemo.R;
+import com.amaranese.starwarsdemo.model.User;
 
 /**
  * Created by Artem Kholodnyi on 11/17/15.

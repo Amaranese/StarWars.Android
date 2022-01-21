@@ -1,4 +1,4 @@
-package com.yalantis.starwars.render;
+package com.amaranese.starwars.render;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
@@ -10,13 +10,13 @@ import android.os.Handler;
 import android.os.Looper;
 import android.view.animation.AccelerateDecelerateInterpolator;
 
-import com.yalantis.starwars.Const;
-import com.yalantis.starwars.R;
-import com.yalantis.starwars.TilesFrameLayout;
-import com.yalantis.starwars.utils.gl.RawResourceReader;
-import com.yalantis.starwars.utils.gl.ShaderHelper;
-import com.yalantis.starwars.utils.gl.TextureHelper;
-import com.yalantis.starwars.widget.StarWarsTilesGLSurfaceView;
+import com.amaranese.starwars.Const;
+import com.amaranese.starwars.R;
+import com.amaranese.starwars.TilesFrameLayout;
+import com.amaranese.starwars.utils.gl.RawResourceReader;
+import com.amaranese.starwars.utils.gl.ShaderHelper;
+import com.amaranese.starwars.utils.gl.TextureHelper;
+import com.amaranese.starwars.widget.StarWarsTilesGLSurfaceView;
 
 import java.util.concurrent.Executors;
 

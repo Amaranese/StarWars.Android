@@ -1,9 +1,9 @@
-package com.yalantis.starwarsdemo.model;
+package com.amaranese.starwarsdemo.model;
 
 import android.support.annotation.DrawableRes;
 import android.support.annotation.StringRes;
 
-import com.yalantis.starwarsdemo.R;
+import com.amaranese.starwarsdemo.R;
 
 /**
  * Created by Artem Kholodnyi on 11/19/15.

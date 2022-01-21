@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo.view;
+package com.amaranese.starwarsdemo.view;
 
 import android.app.ActivityManager;
 import android.content.Context;
@@ -11,11 +11,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
-import com.yalantis.starwarsdemo.R;
-import com.yalantis.starwarsdemo.interfaces.DemoActivityInterface;
-import com.yalantis.starwarsdemo.interfaces.GreetingFragmentInterface;
-import com.yalantis.starwarsdemo.interfaces.TilesRendererInterface;
-import com.yalantis.starwarsdemo.particlesys.ParticleSystemRenderer;
+import com.amaranese.starwarsdemo.R;
+import com.amaranese.starwarsdemo.interfaces.DemoActivityInterface;
+import com.amaranese.starwarsdemo.interfaces.GreetingFragmentInterface;
+import com.amaranese.starwarsdemo.interfaces.TilesRendererInterface;
+import com.amaranese.starwarsdemo.particlesys.ParticleSystemRenderer;
 
 import java.util.List;
 

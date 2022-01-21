@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo.adapter;
+package com.amaranese.starwarsdemo.adapter;
 
 import android.content.Context;
 import android.support.annotation.LayoutRes;
@@ -10,10 +10,10 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.TextView;
 
-import com.yalantis.starwarsdemo.R;
-import com.yalantis.starwarsdemo.interfaces.ProfileAdapterListener;
-import com.yalantis.starwarsdemo.model.User;
-import com.yalantis.starwarsdemo.widget.BackgroundDrawableSwitchCompat;
+import com.amaranese.starwarsdemo.R;
+import com.amaranese.starwarsdemo.interfaces.ProfileAdapterListener;
+import com.amaranese.starwarsdemo.model.User;
+import com.amaranese.starwarsdemo.widget.BackgroundDrawableSwitchCompat;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

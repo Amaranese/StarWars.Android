@@ -1,6 +1,6 @@
-package com.yalantis.starwars.render;
+package com.amaranese.starwars.render;
 
-import com.yalantis.starwars.Const;
+import com.amaranese.starwars.Const;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo.view;
+package com.amaranese.starwarsdemo.view;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
@@ -23,15 +23,15 @@ import android.view.ViewGroup;
 import android.view.animation.AccelerateInterpolator;
 import android.widget.ImageView;
 
-import com.yalantis.starwars.TilesFrameLayout;
-import com.yalantis.starwars.interfaces.TilesFrameLayoutListener;
-import com.yalantis.starwarsdemo.R;
-import com.yalantis.starwarsdemo.adapter.ProfileAdapter;
-import com.yalantis.starwarsdemo.interfaces.DemoActivityInterface;
-import com.yalantis.starwarsdemo.interfaces.ProfileAdapterListener;
-import com.yalantis.starwarsdemo.interfaces.TilesRendererInterface;
-import com.yalantis.starwarsdemo.model.User;
-import com.yalantis.starwarsdemo.widget.ClipRevealFrame;
+import com.amaranese.starwars.TilesFrameLayout;
+import com.amaranese.starwars.interfaces.TilesFrameLayoutListener;
+import com.amaranese.starwarsdemo.R;
+import com.amaranese.starwarsdemo.adapter.ProfileAdapter;
+import com.amaranese.starwarsdemo.interfaces.DemoActivityInterface;
+import com.amaranese.starwarsdemo.interfaces.ProfileAdapterListener;
+import com.amaranese.starwarsdemo.interfaces.TilesRendererInterface;
+import com.amaranese.starwarsdemo.model.User;
+import com.amaranese.starwarsdemo.widget.ClipRevealFrame;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

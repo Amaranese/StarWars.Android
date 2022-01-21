@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo.view;
+package com.amaranese.starwarsdemo.view;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,8 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.yalantis.starwarsdemo.R;
-import com.yalantis.starwarsdemo.interfaces.GreetingFragmentInterface;
+import com.amaranese.starwarsdemo.R;
+import com.amaranese.starwarsdemo.interfaces.GreetingFragmentInterface;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<com.yalantis.starwarsdemo.widget.ClipRevealFrame
+<com.amaranese.starwarsdemo.widget.ClipRevealFrame
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     >
 
-    <com.yalantis.starwars.TilesFrameLayout
+    <com.amaranese.starwars.TilesFrameLayout
         android:id="@+id/tessellation_frame_layout"
         android:layout_height="match_parent"
         android:layout_width="match_parent"
@@ -36,7 +36,7 @@
                     app:layout_scrollFlags="scroll|exitUntilCollapsed|snap"
                     app:contentScrim="?attr/toolbarBackground">
 
-                    <com.yalantis.starwarsdemo.widget.CenterTopImageView
+                    <com.amaranese.starwarsdemo.widget.CenterTopImageView
                         android:layout_gravity="top"
                         android:id="@+id/header"
                         android:layout_width="match_parent"
@@ -81,6 +81,6 @@
         </android.support.design.widget.CoordinatorLayout>
 
 
-    </com.yalantis.starwars.TilesFrameLayout>
+    </com.amaranese.starwars.TilesFrameLayout>
 
-</com.yalantis.starwarsdemo.widget.ClipRevealFrame>
+</com.amaranese.starwarsdemo.widget.ClipRevealFrame>

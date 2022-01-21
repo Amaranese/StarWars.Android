@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo;
+package com.amaranese.starwarsdemo;
 
 import android.app.Application;
 import android.content.Context;

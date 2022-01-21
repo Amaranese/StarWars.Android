@@ -1,9 +1,9 @@
-package com.yalantis.starwars.utils.gl;
+package com.amaranese.starwars.utils.gl;
 
 import android.opengl.GLES20;
 import android.util.Log;
 
-import com.yalantis.starwars.interfaces.ShaderType;
+import com.amaranese.starwars.interfaces.ShaderType;
 
 import timber.log.Timber;
 

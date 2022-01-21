@@ -1,4 +1,4 @@
-package com.yalantis.starwars;
+package com.amaranese.starwars;
 
 import android.annotation.TargetApi;
 import android.app.ActivityManager;
@@ -16,9 +16,9 @@ import android.os.Looper;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.yalantis.starwars.interfaces.TilesFrameLayoutListener;
-import com.yalantis.starwars.render.StarWarsRenderer;
-import com.yalantis.starwars.widget.StarWarsTilesGLSurfaceView;
+import com.amaranese.starwars.interfaces.TilesFrameLayoutListener;
+import com.amaranese.starwars.render.StarWarsRenderer;
+import com.amaranese.starwars.widget.StarWarsTilesGLSurfaceView;
 
 /**
  * Created by Artem Kholodnyi on 11/9/15.

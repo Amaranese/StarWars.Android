@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo.particlesys;
+package com.amaranese.starwarsdemo.particlesys;
 
 import android.animation.ValueAnimator;
 import android.graphics.Bitmap;
@@ -6,10 +6,10 @@ import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
 
-import com.yalantis.starwars.utils.gl.RawResourceReader;
-import com.yalantis.starwars.utils.gl.ShaderHelper;
-import com.yalantis.starwarsdemo.App;
-import com.yalantis.starwarsdemo.R;
+import com.amaranese.starwars.utils.gl.RawResourceReader;
+import com.amaranese.starwars.utils.gl.ShaderHelper;
+import com.amaranese.starwarsdemo.App;
+import com.amaranese.starwarsdemo.R;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

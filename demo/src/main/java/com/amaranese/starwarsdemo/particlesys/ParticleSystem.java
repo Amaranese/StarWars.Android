@@ -1,9 +1,9 @@
-package com.yalantis.starwarsdemo.particlesys;
+package com.amaranese.starwarsdemo.particlesys;
 
 import android.opengl.GLES20;
 
-import com.yalantis.starwars.interfaces.Renderable;
-import com.yalantis.starwarsdemo.util.gl.Const;
+import com.amaranese.starwars.interfaces.Renderable;
+import com.amaranese.starwarsdemo.util.gl.Const;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

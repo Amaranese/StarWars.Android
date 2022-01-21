@@ -1,4 +1,4 @@
-package com.yalantis.starwarsdemo.widget;
+package com.amaranese.starwarsdemo.widget;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -14,7 +14,7 @@ import android.util.AttributeSet;
 import android.view.animation.Animation;
 import android.view.animation.LinearInterpolator;
 
-import com.yalantis.starwarsdemo.R;
+import com.amaranese.starwarsdemo.R;
 
 /**
  * Created by Artem Kholodnyi on 11/17/15.

@@ -1,14 +1,14 @@
-package com.yalantis.starwarsdemo.particlesys;
+package com.amaranese.starwarsdemo.particlesys;
 
-import com.yalantis.starwarsdemo.util.gl.Const;
-import com.yalantis.starwarsdemo.util.gl.math.MathHelper;
+import com.amaranese.starwarsdemo.util.gl.Const;
+import com.amaranese.starwarsdemo.util.gl.math.MathHelper;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
 
 /**
- * Started by Artem Kholodnyi on 11/29/15 6:13 PM -- com.yalantis.starwarsdemo.particlesys
+ * Started by Artem Kholodnyi on 11/29/15 6:13 PM -- com.amaranese.starwarsdemo.particlesys
  */
 public class ParticlesGenerator implements Runnable {
     private final ParticleSystemRenderer mRenderer;

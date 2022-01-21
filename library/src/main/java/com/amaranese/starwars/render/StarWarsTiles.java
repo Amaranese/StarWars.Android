@@ -1,14 +1,14 @@
-package com.yalantis.starwars.render;
+package com.amaranese.starwars.render;
 
 import android.opengl.GLES20;
 
-import com.yalantis.starwars.Const;
-import com.yalantis.starwars.interfaces.Renderable;
+import com.amaranese.starwars.Const;
+import com.amaranese.starwars.interfaces.Renderable;
 
 import java.nio.FloatBuffer;
 
 /**
- * Started by Artem Kholodnyi on 11/1/15 12:40 PM -- com.yalantis.com.yalantis.starwars
+ * Started by Artem Kholodnyi on 11/1/15 12:40 PM -- com.amaranese.com.amaranese.starwars
  */
 public class StarWarsTiles implements Renderable {
 

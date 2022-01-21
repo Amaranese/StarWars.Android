@@ -1,10 +1,10 @@
-package com.yalantis.starwars.widget;
+package com.amaranese.starwars.widget;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;
 import android.util.AttributeSet;
 
-import com.yalantis.starwars.render.StarWarsRenderer;
+import com.amaranese.starwars.render.StarWarsRenderer;
 
 /**
  * Created by Artem Kholodnyi on 11/3/15.

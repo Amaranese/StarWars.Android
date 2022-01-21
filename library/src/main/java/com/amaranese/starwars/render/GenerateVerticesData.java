@@ -1,6 +1,6 @@
-package com.yalantis.starwars.render;
+package com.amaranese.starwars.render;
 
-import com.yalantis.starwars.Const;
+import com.amaranese.starwars.Const;
 
 /**
  * Created by Artem Kholodnyi on 11/2/15.
